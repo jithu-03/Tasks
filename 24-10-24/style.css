@@ -1,0 +1,13 @@
+/* task3 */
+#green{
+    background-color: green;
+}
+/* task6 */
+li{
+    color: green;
+}
+/* task11 */
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
