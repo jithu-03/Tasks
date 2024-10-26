@@ -1,0 +1,14 @@
+.head{
+    text-align:center; 
+    text-transform:uppercase;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#outter{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
