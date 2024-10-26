@@ -1,0 +1,18 @@
+.bar{
+    background-color: #0f1111;
+    height: 60px;
+    border-color: white;
+}
+.amazon{
+    margin: 200px;
+    color: white;
+    text-decoration: none;
+}
+.name{
+    font-size: 25px;
+    color: orange;
+}
+.submit{
+    background-color: #f08804;
+    color: white;
+}
