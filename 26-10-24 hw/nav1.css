@@ -1,0 +1,107 @@
+.bar{
+    background-color: #212529;
+    height: 60px;
+    border-color: white;
+}
+.amazon{
+    margin: 50px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.name{
+    font-size: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    
+}
+.submit{
+    background-color: transparent;
+    color: white;
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: white;
+}
+.search{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+
+/* 2nd bar */
+
+.bar1{
+    background-color: #0d6efd;
+    height: 60px;
+    border-color: white;
+}
+.amazon1{
+    margin: 50px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.name1{
+    font-size: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    
+}
+.submit1{
+    background-color: transparent;
+    color: white;
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: white;
+}
+.search1{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+
+/* 3rd bar */
+
+.bar2{
+    background-color:#e3f2fd;
+    height: 60px;
+    border-color: white;
+}
+.amazon2{
+    margin: 50px;
+    color: white;
+    text-decoration: none;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.name2{
+    font-size: 25px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    
+}
+.submit2{
+    background-color: transparent;
+    color: #0d6efd;
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: #0d6efd;
+}
+.search2{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 250px;
+    border-color: white;
+}

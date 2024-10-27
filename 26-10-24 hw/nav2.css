@@ -1,0 +1,109 @@
+.bar{
+    background-color: #24252a;
+    height: 60px;
+}
+.title{
+        text-transform: uppercase;
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 30px;
+        color: white;
+        font-family:monospace;
+        margin-right: 450px;
+}
+
+.options{
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.details{
+  
+    margin-right: 360px;
+}
+.con{
+    width: 110px;
+    height: 35px;
+    border-radius: 100px;
+    margin-top: 15px;
+    border-color: white;
+    color: white;
+    background-color: #0087a4;
+
+}
+
+/* second nav bar */
+.bar1{
+    background-color: #24252a;
+    height: 60px;
+}
+.title1{
+        margin-left: 850px;
+        text-transform: uppercase;
+        margin-top: 10px;
+        font-size: 30px;
+        color: white;
+        font-family:monospace;
+        
+}
+
+.options1{
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.details1{
+    margin-right: 10px;
+    margin-left: 30px;
+}
+.con1{
+    width: 110px;
+    height: 35px;
+    border-radius: 100px;
+    margin-top: 15px;
+    border-color: white;
+    color: white;
+    background-color: #0087a4;
+
+}
+
+/* third nav bar */
+.bar2{
+    background-color: #24252a;
+    height: 60px;
+}
+.title2{
+        text-transform: uppercase;
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 30px;
+        color: white;
+        font-family:monospace;
+        margin-right: 450px;
+}
+
+.options2{
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.details2{
+  
+    margin-left: 360px;
+}
+.con2{
+    width: 110px;
+    height: 35px;
+    border-radius: 100px;
+    margin-top: 15px;
+    border-color: white;
+    color: white;
+    background-color: #0087a4;
+
+}
