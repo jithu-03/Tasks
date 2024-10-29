@@ -1,0 +1,61 @@
+.bar{
+    background-color: #212529;
+    height: 60px;
+    border-color: white;
+}
+.amazon{
+    margin: 50px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.name{
+    font-size: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    
+}
+.name1{
+    font-size: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    margin-left: 800px;
+}
+.submit{
+    background-color: transparent;
+    color: white;
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: white;
+}
+.search{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 1000px;
+}
+.content{
+   
+    padding: 200px ;
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+.p1{
+    
+    border: 2px black solid ;
+    background-color: rgba(20,12, 13, 0.5);
+}
+.p2{
+    border: 2px black solid ;
+    background-color: rgba(4,52, 23, 0.5);
+}
+.p3{
+    border: 2px black solid ;
+    background-color: rgba(4,5, 83, 0.5);
+}
