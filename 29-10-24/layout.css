@@ -1,0 +1,35 @@
+.lay{
+    width: 400px;
+    height: 400px;
+    background: url(./digital-dreams-1155914.webp) center center/cover;
+    left: 1500px;
+    bottom: 500px;
+    z-index: 1;
+    position: fixed;
+    background-size: cover;
+    
+}
+.container1{
+    width: 100vw;
+    height: 50vh;
+    background-color: antiquewhite;
+    margin: auto;
+}
+.container2{
+    width: 100vw;
+    height: 50vh;
+    background-color: olive;
+    margin: auto;
+}
+.container3{
+    width: 100vw;
+    height: 50vh;
+    background-color: firebrick;
+    margin: auto;
+}
+.container4{
+    width: 100vw;
+    height: 50vh;
+    background-color: aqua;
+    margin: auto;
+}
