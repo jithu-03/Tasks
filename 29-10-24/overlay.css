@@ -1,6 +1,6 @@
 .background{
     height: 55vh;
-    width: 100%;
+    width: 26vw;
   
     background-image: url(digital-dreams-1155914.webp);
     background-repeat: no-repeat;
@@ -8,16 +8,20 @@
     position: relative;
     }
     .text{
-        height: 95vh;
-    width: 100%;
-    opacity: 0.4;
+        height: 55vh;
+    width: 26vw;
+    opacity: 1;
     position: absolute;
-        margin-left: 50px;
-        margin-top: 80px;
+   text-align: center;
+    z-index: 1;
+
+       
+    }
+    .head{
+        margin-top: 200px;
     }
        .background :hover .text {
             background-color: red;
-            color: black;
             font-size: 18px;
             opacity: 1;
 
