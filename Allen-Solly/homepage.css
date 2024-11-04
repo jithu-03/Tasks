@@ -1,13 +1,15 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-img{
+
+img {
     height: 30px;
     width: 30px;
     padding: 3px;
 }
-.nav1{
+
+.nav1 {
     border: 2px solid black;
     display: flex;
     height: 15px;
@@ -18,18 +20,20 @@ img{
     padding: 10px;
 }
 
-.section{
+.section {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.left-section select{
+
+.left-section select {
     border: none;
     background-color: black;
     color: white;
     margin-right: 30px;
 }
-.left-section .delivery-section{
+
+.left-section .delivery-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,33 +42,80 @@ img{
     padding-left: 20px;
     line-height: 13px;
 }
-.left-section .delivery-section span{
+
+.left-section .delivery-section span {
     font-size: 12px;
 }
 
-.right-section .right-sub-section{
+.right-section .right-sub-section {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 5px;
 }
-.right-section .right-sub-section span{
+
+.right-section .right-sub-section span {
     font-size: 14px;
     padding: 5px;
 }
 
 
-.nav2{
+.nav2 {
     border: 2px solid black;
     display: flex;
-    height: 50px;
+    height: 60px;
     justify-content: space-between;
     align-items: center;
     background-color: white;
+    border-color: transparent   ;
     color: white;
     padding: 10px;
 
 }
-.allen2{
+
+.allen2 {
     display: flex;
+    width: 230px;
+    height: 90px;
+    margin-left: 150px;
+}
+
+.section2 {
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.589);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    margin-right: px;
+    font-size: smaller;
+}
+
+.spamm {
+    margin: 4px;
+}
+
+.search {
+    height: 30px;
+    display: flex;
+    border-top: 1px solid white;
+    margin-right: 250px;
+    margin-left: 200px;
+}
+
+.searchpng {
+    height: 20PX;
+    width: 20px;
+
+}
+
+.searchbar {
+    width: 300px;
+    border-color: transparent;
+    border-bottom: 1px solid black;
+    color: rgba(0, 0, 0, 0.315);
+}
+.ab{
+
+    display: flex;
+    width: 60px;
+    height:70px
 }
