@@ -61,10 +61,12 @@ img {
 
 
 .nav2 {
-    position: fixed;
+    position: sticky;
+    top: 0;
     border: 2px solid black;
     display: flex;
     height: 60px;
+    width: 99vw;
     justify-content: space-between;
     align-items: center;
     background-color: white;
@@ -73,9 +75,8 @@ img {
     padding: 10px;
 
 }
-body{
-    padding-top: 60px;
-}
+
+
 
 .allen2 {
     display: flex;
@@ -128,8 +129,9 @@ body{
     height: 75vh;
 }
 .cards{
-    width: 100%;
-    height: 40vh;
+    margin: auto;
+    width: 90%;
+    height: 35vh;
     display: flex;
     justify-content: space-evenly;
     font-family: Arial, Helvetica, sans-serif;
@@ -138,12 +140,25 @@ body{
 }
 .cardimg{
     display: flex;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     margin-top: 40px;
 
 }
 .cards h3{
-    margin-left: 110px;
+    margin-left: 85px;
     margin-top: 10px;
+}
+.app{
+    background-color: bisque;
+    display: flex;
+}
+.asap{
+    margin: 20px;
+    background-color: yellow;
+    color:blue ; 
+    width: 4000px;
+    height: 100px;
+    border-radius: 20%;
+    border-style:dashed ;
 }
