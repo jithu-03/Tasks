@@ -66,13 +66,13 @@ img {
     border: 2px solid black;
     display: flex;
     height: 60px;
-    width: 99vw;
+    width: 98vw;
     justify-content: space-between;
     align-items: center;
     background-color: white;
     border-color: transparent   ;
     color: white;
-    padding: 10px;
+    padding: 10px; ;
 
 }
 
@@ -161,4 +161,316 @@ img {
     height: 100px;
     border-radius: 20%;
     border-style:dashed ;
+}
+.qr{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 27vh;
+    background-color: rgb(209, 199, 128);
+}
+.content{
+    margin-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
+.content h2{
+    font-size: 30px;
+    
+}
+.code ul{
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; 
+    font-weight: bold;
+    align-items: center;
+}
+.code li{
+    list-style-type: none;
+}
+.code .cc{
+    padding: 5px;
+    border: 1px dashed black;
+    background-color: rgb(218, 210, 45);
+}
+.cc img{
+    height: 50px;
+    width: 70px;
+}
+.qcode  img{
+    display: flex;
+    height: 22vh;
+    width: 100%;
+    margin-top: 10px;
+}
+.qcode p{
+    display: flex;
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.asol img{
+    height: 200px;
+    width: 400px;
+}
+.logdiv{
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+    padding: 40px 0;
+}
+.logdiv h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+    color: rgb(17, 17, 75);
+    padding-top: 15px;
+    padding-bottom: 13px;
+}
+.logdiv p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.logdiv img{
+    width: 1300px;
+    height: 60px;
+
+}
+.schead{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(17, 17, 75);
+}
+.schead li{
+    list-style-type: none;
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.schead ul{
+    width: 35%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card1{
+    width: 85%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    margin-left: 6.5%;
+   
+    /* overflow-y: hidden; */
+    scrollbar-width: none;
+}
+.card1im{
+    width: 40rem;
+    padding: 20px;
+    position: relative;
+    width: 20vw;
+    height: 50vh;
+}
+.card1im img{
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    left: 0;
+    top: 0;
+}
+
+.card1im button{
+    display: flex;
+    position:absolute;
+    left: 50%;
+    bottom: 1%;
+    transform: translate(-50%,-50%);
+    height: 50px;
+    width: 180px;
+    border-radius: 5px;
+    border-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    font-size: 20px;
+  
+}
+.trending{
+    width: 100%;
+    margin-top: 5%;
+    height: 95vh;
+    background-color: rgb(17, 17, 75);
+    
+}
+.trending h2{
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 5%;
+}
+.all{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 40px;
+}
+.all ul{
+
+    display: flex;
+    justify-content: space-between;
+}
+.all li{
+    list-style-type: none;
+}
+.scroll2{
+    margin-top: 20px;
+    width: 100%;
+    height:70vh ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: scroll;
+    overflow-y:hidden;
+}
+.card2{
+    width: 100%;
+    height:90%;
+    margin-left: 5%;
+}
+.card2 img{
+
+    height:50vh;
+ 
+}
+.card2 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.card2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 10px;
+    line-height: 4.5vh;
+}
+.r{
+    align-items: center;
+    width: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.radio1{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    border: 2px solid white ;
+    border-radius: 100%;
+}
+.radio2{
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: 2px solid black ;
+    border-radius: 100%;
+}
+.radio3{
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: 2px solid black ;
+    border-radius: 100%;
+}
+.radio4{
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: 2px solid black ;
+    border-radius: 100%; 
+}
+.radio5{
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: 2px solid black ;
+    border-radius: 100%;
+}
+.card2 img{
+    width: auto;
+}
+.newarri{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+    display: flex;
+    justify-content:space-between ;
+}
+.newarri{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+    display: flex;
+    justify-content:space-between ;
+}
+.neww{
+    width: 40%;
+    height: 75vh;
+    margin-left: 10%;
+    background-image: url(./images/sae.jpg);
+    object-fit: cover;
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-right: 30px;
+    position: relative;
+}
+.new1{
+    width: 50%;
+    height: 100%;
+}
+.new1 .card2 p{
+    color:black ;
+}
+.new1 .card2 h3{
+    color: black;
+}
+.scroll2{
+    height: 75vh;
+}
+.newarri .scroll2{
+    padding-left: 10px;   
+}
+.newfoot{
+    position: absolute;
+    height: 15vh;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(29, 29, 80);
+    border-radius: 0 0 10px 10px;
+}
+.newfoot img{
+    position: absolute;
+    width: 10%;
+    height:50%;
+    top: 10px;
+    left: 15%;
+}
+.newfoot h2{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 30px;
+    left: 30%; 
+}
+.newfoot p{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 60px;
+    left: 35%; 
+    font-size: 12px;
+    text-decoration: 1px underline orange;
+}
+.logdiv2 img{
+    margin-left: 6%;
 }
